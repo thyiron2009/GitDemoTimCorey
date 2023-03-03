@@ -1,5 +1,5 @@
 # GitDemoTimCorey
-This is a demo app for the Git Course from IAmTimCorey.
+This is a sample app for the Git Course from IAmTimCorey.
 
 ## Roadmap
  * Add new features
